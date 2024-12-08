@@ -1,7 +1,19 @@
 ## Welcome!
-I'm a CS/Physics uni student working on a few small projects :)
+I'm a CS/Physics uni student working on a few small projects.
+
+Language experience:
+  C#,
+  C,
+  css,
+  html,
+  Javascript,
+  Java,
+  Matlab,
+  Python,
+  XML
+  
 <picture>
-  <source srcset="clouds.png">
+  <img alt="Clouds.png" src="clouds.png">
 </picture>
 
 <!--
