@@ -1,9 +1,8 @@
-<picture>
-  <srcset="clouds.png">
-</picture>
-## Hello!
+## Welcome!
 I'm a CS/Physics uni student working on a few small projects :)
-
+<picture>
+  <source srcset="clouds.png">
+</picture>
 
 <!--
 **kadazel/kadazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
