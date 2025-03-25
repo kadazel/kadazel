@@ -1,21 +1,5 @@
 ## Welcome!
-I'm a CS/Physics uni student in my last year of studies.
-
-Language experience:
-  C#,
-  C,
-  css,
-  html,
-  Javascript,
-  Java,
-  Matlab,
-  Python,
-  React.js
-  XML
-  
-<picture>
-  <img alt="Clouds.png" src="clouds.png">
-</picture>
+I'm a uni student with a lot of sleep debt, who occasoinally works on projects
 
 <!--
 **kadazel/kadazel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
