@@ -1,5 +1,5 @@
 ## Welcome!
-I'm a CS/Physics uni student working on a few small projects.
+I'm a CS/Physics uni student in my last year of studies.
 
 Language experience:
   C#,
@@ -10,6 +10,7 @@ Language experience:
   Java,
   Matlab,
   Python,
+  React.js
   XML
   
 <picture>
